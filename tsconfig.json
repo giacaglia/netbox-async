@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2019",
+        "module": "commonjs",
+        "rootDir": ".",
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "allowJs": true,
+        /* Strict Type-Checking Options */
+        "strict": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["dist"]
+}
